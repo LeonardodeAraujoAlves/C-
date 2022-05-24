@@ -1,7 +1,10 @@
 #include<iostream>
-#include<queue>
+#include<queue>//biblioteca com os metodos de construção prontos para a estrutura de lista
+
 using namespace std;
+
 //queue = lista
+//queue<tipoDeLista>NomeDaLista
 int main(){
 	
 	queue<string> cartas;
@@ -13,8 +16,10 @@ int main(){
 	cartas.push("Paus");
 	
 	cout << "Tamanho da fila: " << cartas.size() << endl;
-	//front retorna a carta que est� na frente da fila
+	
+	
 	while(!cartas.empty()){
+		//front retorna a carta que est� na frente da filalllllll
 		cout << " Primeira Carta: " << cartas.front() << endl;
 		cartas.pop();
 	}
