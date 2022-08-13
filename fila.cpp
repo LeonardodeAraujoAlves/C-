@@ -17,7 +17,7 @@ int main(){
 	
 	cout << "Tamanho da fila: " << cartas.size() << endl;
 	
-	
+	//
 	while(!cartas.empty()){
 		//front retorna a carta que est� na frente da filalllllll
 		cout << " Primeira Carta: " << cartas.front() << endl;
