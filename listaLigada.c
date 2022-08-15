@@ -26,6 +26,8 @@ int main(){
         scanf("%d",& proximo_ponto -> y);
 
         //system("cls");
+        //caso seja uma distro de linux
+        //system("clear");
 
         printf("Deseja continua? <1>Sim outro valor<Nao:\n");
         scanf("%d",&resp);
