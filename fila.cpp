@@ -1,7 +1,7 @@
 #include<iostream>
 #include<queue>//biblioteca com os metodos de construção prontos para a estrutura de lista
 
-using namespace std;
+using namespace std;//evitar usar o namespace desta forma
 
 //queue = lista
 //queue<tipoDeLista>NomeDaLista
