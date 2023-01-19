@@ -1,6 +1,6 @@
 #include<stdio.h>
 #include<stdlib.h>
-
+//comentario de teste
 typedef struct ponto{
     int x, y;
     struct ponto * proximo;//ponteiro para o proximo elemento
