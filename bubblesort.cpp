@@ -1,5 +1,5 @@
 #include<iostream>
-
+//teste de chave
 int main(){
 	int a[]{7,1,3,15,0,2,4,5,8,6};
 	int tamanho{10};
