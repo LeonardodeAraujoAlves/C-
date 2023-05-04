@@ -3,6 +3,7 @@
 
 using namespace std;//evitar usar o namespace desta forma
 //testando
+//Configuração realizada com sucesso
 //queue = lista
 //queue<tipoDeLista>NomeDaLista
 int main(){
