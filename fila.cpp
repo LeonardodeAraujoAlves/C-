@@ -2,7 +2,7 @@
 #include<queue>//biblioteca com os metodos de construção prontos para a estrutura de lista
 
 using namespace std;//evitar usar o namespace desta forma
-
+//testando
 //queue = lista
 //queue<tipoDeLista>NomeDaLista
 int main(){
